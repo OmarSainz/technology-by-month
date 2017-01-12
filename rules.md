@@ -1,4 +1,4 @@
-# Reglas Básicas para Technology of month challenge en github.
+# Reglas Básicas para Technology by Month
 
 ### Descripción Básica 
 
