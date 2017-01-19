@@ -1,6 +1,6 @@
-# Reglas Básicas para Technology of month challenge en github.
+# Rules of Technology of month challenge 
 
-### Descripción Básica 
+### Basic Description 
 
 12 meses, 12 tecnologías ;D!
 
